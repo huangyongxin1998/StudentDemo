@@ -7,7 +7,7 @@ def add():
 def delete():
     return '删除学生成员'
 
-def uodate():
+def update():
     return '更新学生处成员'
 
 def list():
