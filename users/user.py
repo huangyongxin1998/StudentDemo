@@ -13,3 +13,5 @@ def uodate():
 def list():
     return '展示学生列表'
 
+def users_info():
+    return '用户信息列表'
